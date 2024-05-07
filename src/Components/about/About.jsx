@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 import React from 'react'
 import './about.css'
 import ME from '../../assets/023eebc4bcee84dda420da10d3fe1c91.jpg'
