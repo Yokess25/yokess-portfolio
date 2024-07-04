@@ -4,10 +4,9 @@
 
 
 
-
 import React from 'react'
 import './about.css'
-import ME from '../../assets/023eebc4bcee84dda420da10d3fe1c91.jpg'
+import ME from '../../assets/DSC_0008.jpg';
 import { TbMilitaryAward } from "react-icons/tb";
 
 const About = () => {
@@ -28,8 +27,13 @@ const About = () => {
               <h5>Experience</h5>
               <small>3 months</small>
             </article>
+            <div>
+            I completed an internship as a backend developer for 3 months.
+During this time, I focused on following technologies like HTML,
+CSS, PHP, Laravel and SQL.
+            </div>
           </div>
-          <a href="#contact" style= {{marginTop: '20px'}} className="btn btn-primary">Let's</a>
+          <a href="#contact" style= {{marginTop: '20px'}} className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
     </section> 

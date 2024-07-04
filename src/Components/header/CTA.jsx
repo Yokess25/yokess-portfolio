@@ -1,5 +1,11 @@
+
+
+
+
+
+
 import React from 'react'
-import CV from '../../assets/cv_yoki.pdf'
+import CV from '../../assets/Yokess_Re_docs.pdf'
 
 const CTA = () => {
   return (
